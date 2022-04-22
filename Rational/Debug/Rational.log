@@ -1,0 +1,6 @@
+﻿  Rational.cpp
+C:\Users\shadowlerone\source\repos\Rational\Rational\Rational.cpp(87,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shadowlerone\source\repos\Rational\Rational\Rational.cpp(87,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shadowlerone\source\repos\Rational\Rational\Rational.cpp(88,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shadowlerone\source\repos\Rational\Rational\Rational.cpp(88,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Rational.vcxproj -> C:\Users\shadowlerone\source\repos\Rational\Debug\Rational.exe
